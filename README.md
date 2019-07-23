@@ -9,8 +9,12 @@ profiler for script.
 Make sure you havent installed a version of line_profiler before!!!
 
     $ git clone https://github.com/reubenlindroos/profiler.git
-   
-    $ cd profiler/line_profiler/
+    
+    $ cd profiler/
+    
+    $ git clone https://github.com/rkern/line_profiler.git
+    
+    $ cd line_profiler/
    
     $ python setup.py install --user
 
